@@ -1,0 +1,52 @@
+{
+  "db": [
+    {
+      "Id": 1,
+      "Nombre": "Los propios",
+      "Autor": "Perez",
+      "Cantidad": 20,
+      "Categoria": "Romance"
+    },
+    {
+      "Id": 2,
+      "Nombre": "Cien a\u00c3\u00b1os de soledad",
+      "Autor": "Gabriel Garc\u00c3\u00ada M\u00c3\u00a1rquez",
+      "Cantidad": 20,
+      "Categoria": "Fantasia"
+    },
+    {
+      "Id": 3,
+      "Nombre": "Don Quijote de la Mancha",
+      "Autor": "Miguel de Cervantes",
+      "Cantidad": 20,
+      "Categoria": "Ciencia ficcion"
+    }
+  ],
+  "usuarios": [
+    {
+      "Id": 1,
+      "nombre_usuario": "Admin",
+      "contrasena": "123456",
+      "activo": true
+    },
+    {
+      "Id": 2,
+      "nombre_usuario": "Juan24",
+      "contrasena": "123456",
+      "activo": true
+    },
+    {
+      "Id": 3,
+      "nombre_usuario": "Juan25",
+      "contrasena": "123456",
+      "activo": true
+    }
+  ],
+  "categorias": [
+    "Romance",
+    "Fantasia",
+    "Ciencia ficcion"
+  ],
+  "prestamos": [],
+  "devoluciones": []
+}
